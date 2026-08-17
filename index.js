@@ -7,7 +7,7 @@ const demandHistory = [100, 120, 110, 130, 140];
 let currentInventory = 50;
 const warehouseCapacity = 150;
 const actualDemand = 120;
-const price = 1000;
+const price = 1500;
 
 // 1. 需要予測
 const forecast = forecastDemand(demandHistory);
