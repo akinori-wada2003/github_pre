@@ -6,3 +6,7 @@ GitとGithubの練習用リポジトリ
 
 - Gitの基本操作
 - Githubへのpush
+
+## Branch Practice
+
+feature branchで変更しました
